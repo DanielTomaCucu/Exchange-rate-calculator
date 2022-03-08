@@ -34,7 +34,7 @@ p{
     cursor: pointer;
     border-radius: 5px;
     font-size: 1rem;
-    padding: 10px 25px;
+    padding: 1.3vh 6vw;
     border: none;
 }
 .btn:hover{
@@ -74,9 +74,12 @@ p{
     justify-content: space-between;
 }
 .rate{
-    color: var(--primary-color);
-    font-size: 14px;
-    padding: 0 10px;
+    font-size: 15px;
+    padding: 1.3vh 4vw;
+    font-weight: 600;
+    background: #DEEFE9;
+    border-radius: 5px;
+    color: #159A9C;
 }
 select:focus, input:focus, button:focus{
     outline: 0;
