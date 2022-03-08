@@ -88,9 +88,7 @@ select:focus, input:focus, button:focus{
         
     }
     .money-img{
-        padding-top: 10vh;
+        padding-top: 30vh;
     }
-    .container{
-        padding-bottom: 5vh;
-    }
+   
 }
